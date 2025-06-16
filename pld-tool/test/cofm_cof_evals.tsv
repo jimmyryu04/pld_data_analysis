@@ -1,0 +1,103 @@
+seqname	variant	metric	folder	value
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	UTR5_app	ViennaRNA:partition:U	
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	UTR5_app	ViennaRNA:partition:m1psi	
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	aup_U1AGC0	ViennaRNA:partition:U	0.22284016886149563
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	aup_U1AGC0	ViennaRNA:partition:m1psi	0.21333959495484606
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	aup_U3A1GC0	ViennaRNA:partition:U	0.2615606729567647
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	aup_U3A1GC0	ViennaRNA:partition:m1psi	0.2521919262026717
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	aup_U3A1o5	ViennaRNA:partition:U	0.23351508403692547
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	aup_U3A1o5	ViennaRNA:partition:m1psi	0.22697415271278454
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	aup_U3A2	ViennaRNA:partition:U	0.24251239077950187
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	aup_U3A2	ViennaRNA:partition:m1psi	0.23581510316815407
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	aup_U5A2	ViennaRNA:partition:U	0.23860257515573538
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	aup_U5A2	ViennaRNA:partition:m1psi	0.23134813987693323
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	aup_U8A3	ViennaRNA:partition:U	0.24516936067200748
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	aup_U8A3	ViennaRNA:partition:m1psi	0.23731016144049638
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	aup_unweighted	ViennaRNA:partition:U	0.22334010179930563
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	aup_unweighted	ViennaRNA:partition:m1psi	0.21822617838448716
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	degscore	ViennaRNA:fold:U	157.32800000000006
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	degscore	ViennaRNA:fold:m1psi	157.38300000000004
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	free_energy	ViennaRNA:fold:U	-422.20001220703125
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	free_energy	ViennaRNA:partition:U	-427.7232666015625
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	free_energy	ViennaRNA:fold:m1psi	-473.94000244140625
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	free_energy	ViennaRNA:partition:m1psi	-478.3020324707031
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	gamma_single_cai		-0.12841585849807516
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	log2_bicodon_cai		0.728515625
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	log2_single_cai		-0.13947888899201724
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	start_app	ViennaRNA:partition:U	0.4449625820375259
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	start_app	ViennaRNA:partition:m1psi	0.48843308312743083
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	start_str	ViennaRNA:fold:U	11.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	start_str	ViennaRNA:partition:U	8.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	start_str	ViennaRNA:fold:m1psi	10.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	start_str	ViennaRNA:partition:m1psi	10.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	total_basecount_A		131.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	total_basecount_C		178.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	total_basecount_G		203.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	total_basecount_U		127.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	unpaired_A	ViennaRNA:fold:U	47.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	unpaired_A	ViennaRNA:partition:U	47.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	unpaired_A	ViennaRNA:fold:m1psi	46.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	unpaired_A	ViennaRNA:partition:m1psi	46.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	unpaired_C	ViennaRNA:fold:U	29.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	unpaired_C	ViennaRNA:partition:U	29.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	unpaired_C	ViennaRNA:fold:m1psi	28.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	unpaired_C	ViennaRNA:partition:m1psi	28.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	unpaired_G	ViennaRNA:fold:U	37.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	unpaired_G	ViennaRNA:partition:U	37.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	unpaired_G	ViennaRNA:fold:m1psi	36.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	unpaired_G	ViennaRNA:partition:m1psi	36.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	unpaired_U	ViennaRNA:fold:U	26.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	unpaired_U	ViennaRNA:partition:U	26.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	unpaired_U	ViennaRNA:fold:m1psi	25.0
+NLucP_1E_HBA30_lam2_CTRL	cdsonly	unpaired_U	ViennaRNA:partition:m1psi	25.0
+NLucP_1E_HBA30_lam2_CTRL	full	UTR5_app	ViennaRNA:partition:U	0.23650557387693796
+NLucP_1E_HBA30_lam2_CTRL	full	UTR5_app	ViennaRNA:partition:m1psi	0.24758085491428478
+NLucP_1E_HBA30_lam2_CTRL	full	aup_U1AGC0	ViennaRNA:partition:U	0.32377752969989265
+NLucP_1E_HBA30_lam2_CTRL	full	aup_U1AGC0	ViennaRNA:partition:m1psi	0.32085267771786397
+NLucP_1E_HBA30_lam2_CTRL	full	aup_U3A1GC0	ViennaRNA:partition:U	0.3364304209565451
+NLucP_1E_HBA30_lam2_CTRL	full	aup_U3A1GC0	ViennaRNA:partition:m1psi	0.33311876035134547
+NLucP_1E_HBA30_lam2_CTRL	full	aup_U3A1o5	ViennaRNA:partition:U	0.28480513640023297
+NLucP_1E_HBA30_lam2_CTRL	full	aup_U3A1o5	ViennaRNA:partition:m1psi	0.28198408131165914
+NLucP_1E_HBA30_lam2_CTRL	full	aup_U3A2	ViennaRNA:partition:U	0.2905587281954354
+NLucP_1E_HBA30_lam2_CTRL	full	aup_U3A2	ViennaRNA:partition:m1psi	0.2876274204274722
+NLucP_1E_HBA30_lam2_CTRL	full	aup_U5A2	ViennaRNA:partition:U	0.29778434042880325
+NLucP_1E_HBA30_lam2_CTRL	full	aup_U5A2	ViennaRNA:partition:m1psi	0.2948544368959031
+NLucP_1E_HBA30_lam2_CTRL	full	aup_U8A3	ViennaRNA:partition:U	0.30922868740216763
+NLucP_1E_HBA30_lam2_CTRL	full	aup_U8A3	ViennaRNA:partition:m1psi	0.3061857333261006
+NLucP_1E_HBA30_lam2_CTRL	full	aup_unweighted	ViennaRNA:partition:U	0.2572203803930403
+NLucP_1E_HBA30_lam2_CTRL	full	aup_unweighted	ViennaRNA:partition:m1psi	0.25463066135341805
+NLucP_1E_HBA30_lam2_CTRL	full	degscore	ViennaRNA:fold:U	216.93700000000007
+NLucP_1E_HBA30_lam2_CTRL	full	degscore	ViennaRNA:fold:m1psi	216.91800000000006
+NLucP_1E_HBA30_lam2_CTRL	full	free_energy	ViennaRNA:fold:U	-476.8999938964844
+NLucP_1E_HBA30_lam2_CTRL	full	free_energy	ViennaRNA:partition:U	-485.23699951171875
+NLucP_1E_HBA30_lam2_CTRL	full	free_energy	ViennaRNA:fold:m1psi	-545.5800170898438
+NLucP_1E_HBA30_lam2_CTRL	full	free_energy	ViennaRNA:partition:m1psi	-551.75
+NLucP_1E_HBA30_lam2_CTRL	full	gamma_single_cai		-0.12841585849807516
+NLucP_1E_HBA30_lam2_CTRL	full	log2_bicodon_cai		0.728515625
+NLucP_1E_HBA30_lam2_CTRL	full	log2_single_cai		-0.13947888899201724
+NLucP_1E_HBA30_lam2_CTRL	full	start_app	ViennaRNA:partition:U	0.3151825181041047
+NLucP_1E_HBA30_lam2_CTRL	full	start_app	ViennaRNA:partition:m1psi	0.27000666609968643
+NLucP_1E_HBA30_lam2_CTRL	full	start_str	ViennaRNA:fold:U	54.0
+NLucP_1E_HBA30_lam2_CTRL	full	start_str	ViennaRNA:partition:U	52.0
+NLucP_1E_HBA30_lam2_CTRL	full	start_str	ViennaRNA:fold:m1psi	53.0
+NLucP_1E_HBA30_lam2_CTRL	full	start_str	ViennaRNA:partition:m1psi	47.0
+NLucP_1E_HBA30_lam2_CTRL	full	total_basecount_A		165.0
+NLucP_1E_HBA30_lam2_CTRL	full	total_basecount_C		222.0
+NLucP_1E_HBA30_lam2_CTRL	full	total_basecount_G		245.0
+NLucP_1E_HBA30_lam2_CTRL	full	total_basecount_U		190.0
+NLucP_1E_HBA30_lam2_CTRL	full	unpaired_A	ViennaRNA:fold:U	58.0
+NLucP_1E_HBA30_lam2_CTRL	full	unpaired_A	ViennaRNA:partition:U	59.0
+NLucP_1E_HBA30_lam2_CTRL	full	unpaired_A	ViennaRNA:fold:m1psi	59.0
+NLucP_1E_HBA30_lam2_CTRL	full	unpaired_A	ViennaRNA:partition:m1psi	59.0
+NLucP_1E_HBA30_lam2_CTRL	full	unpaired_C	ViennaRNA:fold:U	44.0
+NLucP_1E_HBA30_lam2_CTRL	full	unpaired_C	ViennaRNA:partition:U	43.0
+NLucP_1E_HBA30_lam2_CTRL	full	unpaired_C	ViennaRNA:fold:m1psi	42.0
+NLucP_1E_HBA30_lam2_CTRL	full	unpaired_C	ViennaRNA:partition:m1psi	44.0
+NLucP_1E_HBA30_lam2_CTRL	full	unpaired_G	ViennaRNA:fold:U	40.0
+NLucP_1E_HBA30_lam2_CTRL	full	unpaired_G	ViennaRNA:partition:U	39.0
+NLucP_1E_HBA30_lam2_CTRL	full	unpaired_G	ViennaRNA:fold:m1psi	39.0
+NLucP_1E_HBA30_lam2_CTRL	full	unpaired_G	ViennaRNA:partition:m1psi	41.0
+NLucP_1E_HBA30_lam2_CTRL	full	unpaired_U	ViennaRNA:fold:U	56.0
+NLucP_1E_HBA30_lam2_CTRL	full	unpaired_U	ViennaRNA:partition:U	57.0
+NLucP_1E_HBA30_lam2_CTRL	full	unpaired_U	ViennaRNA:fold:m1psi	58.0
+NLucP_1E_HBA30_lam2_CTRL	full	unpaired_U	ViennaRNA:partition:m1psi	58.0
